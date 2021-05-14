@@ -39,8 +39,8 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {}
-};
-"homepage": "https://myusername.github.io/my-app",
-"predeploy": "npm run build",
-"deploy": "gh-pages -d build",
+  "devDependencies": {},
+  "homepage": "https://myusername.github.io/my-app",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
